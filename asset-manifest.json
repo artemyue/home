@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.9046f652.chunk.css",
+    "main.css": "/home/static/css/main.dce8e525.chunk.css",
     "main.js": "/home/static/js/main.31a760d3.chunk.js",
     "main.js.map": "/home/static/js/main.31a760d3.chunk.js.map",
     "runtime~main.js": "/home/static/js/runtime~main.0990ee84.js",
@@ -8,9 +8,9 @@
     "static/js/2.a388c5c8.chunk.js": "/home/static/js/2.a388c5c8.chunk.js",
     "static/js/2.a388c5c8.chunk.js.map": "/home/static/js/2.a388c5c8.chunk.js.map",
     "index.html": "/home/index.html",
-    "precache-manifest.cfcda322f1291a02adff78713ee9a997.js": "/home/precache-manifest.cfcda322f1291a02adff78713ee9a997.js",
+    "precache-manifest.48f53787b113927984ccc57f16123296.js": "/home/precache-manifest.48f53787b113927984ccc57f16123296.js",
     "service-worker.js": "/home/service-worker.js",
-    "static/css/main.9046f652.chunk.css.map": "/home/static/css/main.9046f652.chunk.css.map",
+    "static/css/main.dce8e525.chunk.css.map": "/home/static/css/main.dce8e525.chunk.css.map",
     "static/media/bulb.svg": "/home/static/media/bulb.2f78d55e.svg"
   }
 }
