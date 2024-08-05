@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.c8c8c640.css",
-    "main.js": "/home/static/js/main.6fbd80f6.js",
+    "main.css": "/home/static/css/main.658b3352.css",
+    "main.js": "/home/static/js/main.42f1826d.js",
+    "static/media/fan_off.png": "/home/static/media/fan_off.8873c063581829a5fc1c.png",
+    "static/media/motion_lights.png": "/home/static/media/motion_lights.be5f28a0493d1898509d.png",
+    "static/media/power_off.png": "/home/static/media/power_off.2ab76b81dec94be63ef5.png",
+    "static/media/power_on.png": "/home/static/media/power_on.91e2a5621e65cc792b97.png",
+    "static/media/fan.png": "/home/static/media/fan.4862698ff03d1901a446.png",
+    "static/media/disable.png": "/home/static/media/disable.3ef065b4f4a07033a6af.png",
     "service-worker.js": "/home/service-worker.js",
+    "static/media/bright.png": "/home/static/media/bright.1e3243c06d31ca1597a2.png",
+    "static/media/moon.png": "/home/static/media/moon.97b31990b1e2f9b726e1.png",
+    "static/media/power.png": "/home/static/media/power.5f961d92c24c61c0f501.png",
     "static/media/bulb.svg": "/home/static/media/bulb.479888241d7a7cb7e2e81f2a890e767c.svg",
     "index.html": "/home/index.html",
-    "main.c8c8c640.css.map": "/home/static/css/main.c8c8c640.css.map",
-    "main.6fbd80f6.js.map": "/home/static/js/main.6fbd80f6.js.map"
+    "main.658b3352.css.map": "/home/static/css/main.658b3352.css.map",
+    "main.42f1826d.js.map": "/home/static/js/main.42f1826d.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8c8c640.css",
-    "static/js/main.6fbd80f6.js"
+    "static/css/main.658b3352.css",
+    "static/js/main.42f1826d.js"
   ]
 }
